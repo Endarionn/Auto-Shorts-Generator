@@ -1,0 +1,1 @@
+python Video.py --model large --output_dir ./output --output_srt True --srt_only False --verbose True --task transcribe --language tr "path/to/video1.mp4"

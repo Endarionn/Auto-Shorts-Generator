@@ -1,0 +1,5 @@
+python crop.py --input path_to_video.mp4
+
+python subtitle.py --input input_video.mp4 --model large (Default model: small) --output_dir ./output (Default directory: ./output) --output_srt True (Default SRT file: True)
+
+python subtitle.py --input path_to_video.mp4
